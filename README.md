@@ -105,6 +105,6 @@ As you complete sections, the progress tracker updates to reflect your learning 
 
 Feel free to reach out if you have any questions or suggestions:
 
-- **GitHub**: [H](https://github.com/Hars)
-- **LinkedIn**: [Harshvardhan Vilas Patil](https://www.linkedin.com/in/harsh264patil)
-- **Email**: harsh264patil@gmail.com
+- **GitHub**: [Atharva Kodgule](https://github.com/AtharvaKodgule)
+- **LinkedIn**: [Atharva Kodgule](https://www.linkedin.com/in/atharva-kodgule)
+- **Email**: atharvakodgule17@gmail.com
